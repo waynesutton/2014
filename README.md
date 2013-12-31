@@ -1,7 +1,7 @@
 Git 2014 
 ==== 
 
-[Wayne Sutton](http://socialwayne.com/about),[@waynesutton](http://twitter.com/waynesutton)
+[Wayne Sutton](http://socialwayne.com/about),  [@waynesutton](http://twitter.com/waynesutton)
 
 
 [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown link")
